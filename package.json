@@ -2,7 +2,6 @@
   "name": "stringutils",
   "description": "Reusable components for manipulating strings",
   "author": "Joe Hilling",
-  "name": "uppercaseme",
   "version": "0.1.1",
   "repository": {
     "url": "https://github.com/mindlab/stringutils.git"
