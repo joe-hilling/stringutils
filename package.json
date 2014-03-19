@@ -12,5 +12,6 @@
     },
   "devDependencies" : {
     "should" : "*"
-  }
+  },
+  "main": "./stringutils.js"
 }
