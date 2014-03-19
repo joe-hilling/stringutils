@@ -1,5 +1,4 @@
 // Fix strings
-var  _ = require('underscore')
 
 var stfx = {
 
