@@ -18,6 +18,7 @@ var stfx = {
 		if (stfx.isEncoded(string)){
 			return unescape(string)
 		}
+		return string
 	}
 
 }
